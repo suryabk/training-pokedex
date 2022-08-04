@@ -53,7 +53,7 @@ const App = () => {
                         size="large"
                         onClick={() => setUrlData(nextUrl)}
                     >
-                        Next
+                        Show More
                     </Button>
                 </div>
             </Content>
